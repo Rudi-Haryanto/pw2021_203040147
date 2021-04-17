@@ -34,7 +34,7 @@ if( isset($_POST["submit"]) ) {
 		<ul>
 			<li>
 				<label for="nama">Nama : </label>
-				<input type="text" name="nama" id="nama">
+				<input type="text" name="nama" id="nama" required>
 			</li>
 			<li>
 				<label for="nrp">NRP : </label>
