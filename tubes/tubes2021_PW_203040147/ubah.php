@@ -42,7 +42,9 @@ if (isset($_POST["submit"])) {
 	<title>Ubah data barang</title>
 	<style>
 		body {
-			background-color: chartreuse;
+			background-image: url(img/ubah.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
 		}
 	</style>
 </head>
